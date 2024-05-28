@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Ogląda Tickety OnlyBox.pl"];
 
 
 let currentIndex = 0;
